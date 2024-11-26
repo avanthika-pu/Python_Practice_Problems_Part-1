@@ -1,3 +1,4 @@
+#for inheritance problem
 class person:
     def __init__(self, name, id):
         self.name = name
